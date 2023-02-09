@@ -1,7 +1,8 @@
 .container {
-  width: 400px;
+  width: 360px;
   margin: 0 auto;
 }
+
 
 @media (min-width: 550px) {
   .container {
@@ -40,4 +41,8 @@
 
 .container-center {
   text-align: center;
+}
+
+.container-thin {
+  width: 200px;
 }
