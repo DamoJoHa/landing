@@ -1,0 +1,43 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+@media (min-width: 550px) {
+  .container {
+    width: 460px
+  }
+}
+
+@media (min-width: 700px) {
+  .container {
+    width: 600px
+  }
+}
+
+@media (min-width: 900px) {
+  .container {
+    width: 800px
+  }
+}
+
+@media (min-width: 1080px) {
+  .container {
+    width: 900px;
+  }
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.container-flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.container-center {
+  text-align: center;
+}

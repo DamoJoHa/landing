@@ -1,0 +1,12 @@
+.socials-bar {
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+  margin: 0;
+}
+
+.socials-bar li {
+  display: inline;
+  padding: 0 20px;
+  font-size: 25px;
+}

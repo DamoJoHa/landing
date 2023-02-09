@@ -1,0 +1,30 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+
+@import url('components/header.css');
+@import url('components/container.css');
+@import url('components/button.css');
+@import url('components/cards.css');
+@import url('components/card.css');
+@import url('components/card-text.css');
+@import url('components/footer.css');
+@import url('components/socials-bar.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: "Lora";
+  font-weight: 400;
+  color: rgb(45, 28, 18);
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Custom design below! */
